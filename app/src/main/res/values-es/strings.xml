@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">javaModulo2</string>
+    <string name="btn_play">Jugar</string>
+    <string name="btn_profile">Perfil</string>
+    <string name="btn_config">Ajustes</string>
+    <string name="btn_about">Acerda de</string>
+    <string name="tv_test">Resultado</string>
+    <string name="tv_htest">Ingrese un número</string>
+    <string name="tv_htest1">Ingrese número 1</string>
+    <string name="tv_htest2">Ingrese número 2</string>
+    <string name="et_username">Nombre de usuario</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="sign_in">Iniciar Sesión</string>
+</resources>
