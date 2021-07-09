@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143695459358",
+    "project_id": "javamodulo2",
+    "storage_bucket": "javamodulo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143695459358:android:7b42ea3a78eade732bea0f",
+        "android_client_info": {
+          "package_name": "com.example.mobile.javaModulo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143695459358-ilqonhn7dsg6fj0vhg2fp62ijr7uo64b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxurIoX92svqPagjuY7emzsQCF8pIoEwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143695459358-ilqonhn7dsg6fj0vhg2fp62ijr7uo64b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

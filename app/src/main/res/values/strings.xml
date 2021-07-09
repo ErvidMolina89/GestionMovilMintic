@@ -12,4 +12,12 @@
     <string name="et_password">Password</string>
     <string name="btn_login">Login</string>
     <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="txt_title_login">Login 😄😄😄</string>
+    <string name="txt_sesion_ok">Login sucessfull</string>
+    <string name="txt_accept">Accept</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_error_sesion">Error login</string>
+    <string name="user_register">user register</string>
 </resources>

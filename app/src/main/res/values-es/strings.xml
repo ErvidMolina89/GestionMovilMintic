@@ -12,4 +12,12 @@
     <string name="et_password">Contraseña</string>
     <string name="btn_login">Ingresar</string>
     <string name="sign_in">Iniciar Sesión</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="txt_title_login">Inicio de sesión</string>
+    <string name="txt_error_sesion">Error iniciando sesión</string>
+    <string name="txt_sesion_ok">Inicio de sesión exitoso</string>
+    <string name="txt_accept">Aceptar</string>
+    <string name="txt_cancel">Cancelar</string>
+    <string name="user_register">Registrar Usuario</string>
 </resources>
