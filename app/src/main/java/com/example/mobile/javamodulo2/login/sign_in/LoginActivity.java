@@ -12,6 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.mobile.javamodulo2.DrawerActivity;
 import com.example.mobile.javamodulo2.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.GoogleAuthProvider;
@@ -69,10 +70,10 @@ public class LoginActivity extends AppCompatActivity {
                     builder.setPositiveButton(R.string.txt_accept, new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
-//                            Intent activity2 = new Intent(mySelf, MainActivity2.class);
-//                            activity2.putExtra("username", username);
-//                            activity2.putExtra("password", password);
-//                            startActivity(activity2);
+                            Intent menu = new Intent(mySelf, DrawerActivity.class);
+                            menu.putExtra("username", username);
+                            menu.putExtra("password", password);
+                            startActivity(menu);
                         }
                     });
                     builder.setNegativeButton(R.string.txt_cancel, null);

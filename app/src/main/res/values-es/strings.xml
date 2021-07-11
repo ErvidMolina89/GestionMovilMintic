@@ -20,4 +20,14 @@
     <string name="txt_accept">Aceptar</string>
     <string name="txt_cancel">Cancelar</string>
     <string name="user_register">Registrar Usuario</string>
+    <string name="menu_home">Principal</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="nav_header_desc">Encabezado</string>
+    <string name="nav_header_subtitle">Subtítulo</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>
